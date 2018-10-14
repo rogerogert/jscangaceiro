@@ -11,7 +11,8 @@ Projeto com os resultados dos estudos realizados com o livro Cangaceiro Javascri
 - [x] Cap 3 - No cangaço, é ação para todo lado
 - [ ] Cap 4 - Dois pesos, duas medidas?
     - [x] 4.1 - Isolando a responsabilidade de conversão de datas
-    - [ ] 4.2 - Métodos estáticos
+    - [x] 4.2 - Métodos estáticos
+        - Métodos estáticos podem ser chamados diretamente da classe na qual foram declarados sem a necessidade de instanciar a classe.
     - [ ] 4.3 - Template literal
     - [ ] 4.4 - A boa prática do fail-fast
 - [ ] Cap 5 - O bando deve seguir uma regra
