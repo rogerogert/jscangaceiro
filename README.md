@@ -13,7 +13,8 @@ Projeto com os resultados dos estudos realizados com o livro Cangaceiro Javascri
     - [x] 4.1 - Isolando a responsabilidade de conversão de datas
     - [x] 4.2 - Métodos estáticos
         - Métodos estáticos podem ser chamados diretamente da classe na qual foram declarados sem a necessidade de instanciar a classe.
-    - [ ] 4.3 - Template literal
+    - [x] 4.3 - Template literal
+        - Template literal (ES6): nova forma de concatenar strings que evita processo de concatenação.
     - [ ] 4.4 - A boa prática do fail-fast
 - [ ] Cap 5 - O bando deve seguir uma regra
     - [ ] 5.1 - Criando um novo modelo
