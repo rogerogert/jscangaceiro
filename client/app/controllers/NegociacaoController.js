@@ -12,8 +12,10 @@ class NegociacaoController {
     adiciona(event){
         event.preventDefault();
 
+        let data = new Date(this._inputData.value.replace(/-/g, ','));
+
         let negociacao = new Negociacao(
-            this._inputData.value,
+            data,
             parseInt(this._inputQuantidade.value),
             parseFloat(this._inputValor.value)
         )
