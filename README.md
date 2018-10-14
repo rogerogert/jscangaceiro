@@ -19,7 +19,8 @@ Projeto com os resultados dos estudos realizados com o livro Cangaceiro Javascri
         - fail-fast: boa prática de validar os parâmetros recebidos antes de utilizá-los na lógica da aplicação.
 - [ ] Cap 5 - O bando deve seguir uma regra
     - [x] 5.1 - Criando um novo modelo
-    - [ ] 5.2 - O tendão de Aquiles do Javascript
+    - [x] 5.2 - O tendão de Aquiles do Javascript
+        - O tendão de aquiles do JS é a dependência entre scripts
     - [ ] 5.3 - Blindando o nosso modelo
 - [ ] Cap 6 - A moda no cangaço
 - [ ] Cap 7 - O plano
