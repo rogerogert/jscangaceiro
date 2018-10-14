@@ -15,7 +15,8 @@ Projeto com os resultados dos estudos realizados com o livro Cangaceiro Javascri
         - Métodos estáticos podem ser chamados diretamente da classe na qual foram declarados sem a necessidade de instanciar a classe.
     - [x] 4.3 - Template literal
         - Template literal (ES6): nova forma de concatenar strings que evita processo de concatenação.
-    - [ ] 4.4 - A boa prática do fail-fast
+    - [x] 4.4 - A boa prática do fail-fast
+        - fail-fast: boa prática de validar os parâmetros recebidos antes de utilizá-los na lógica da aplicação.
 - [ ] Cap 5 - O bando deve seguir uma regra
     - [ ] 5.1 - Criando um novo modelo
     - [ ] 5.2 - O tendão de Aquiles do Javascript
