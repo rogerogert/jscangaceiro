@@ -10,7 +10,14 @@ Projeto com os resultados dos estudos realizados com o livro Cangaceiro Javascri
 - [x] Cap 2 - Negociar com o cangaceiro, tem coragem?
 - [x] Cap 3 - No cangaço, é ação para todo lado
 - [ ] Cap 4 - Dois pesos, duas medidas?
+    - [x] 4.1 - Isolando a responsabilidade de conversão de datas
+    - [ ] 4.2 - Métodos estáticos
+    - [ ] 4.3 - Template literal
+    - [ ] 4.4 - A boa prática do fail-fast
 - [ ] Cap 5 - O bando deve seguir uma regra
+    - [ ] 5.1 - Criando um novo modelo
+    - [ ] 5.2 - O tendão de Aquiles do Javascript
+    - [ ] 5.3 - Blindando o nosso modelo
 - [ ] Cap 6 - A moda no cangaço
 - [ ] Cap 7 - O plano
 
