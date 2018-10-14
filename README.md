@@ -9,7 +9,7 @@ Projeto com os resultados dos estudos realizados com o livro Cangaceiro Javascri
 - [x] Cap 1 - Prólogo: era uma vez no sertão
 - [x] Cap 2 - Negociar com o cangaceiro, tem coragem?
 - [x] Cap 3 - No cangaço, é ação para todo lado
-- [ ] Cap 4 - Dois pesos, duas medidas?
+- [x] Cap 4 - Dois pesos, duas medidas?
     - [x] 4.1 - Isolando a responsabilidade de conversão de datas
     - [x] 4.2 - Métodos estáticos
         - Métodos estáticos podem ser chamados diretamente da classe na qual foram declarados sem a necessidade de instanciar a classe.
@@ -18,7 +18,7 @@ Projeto com os resultados dos estudos realizados com o livro Cangaceiro Javascri
     - [x] 4.4 - A boa prática do fail-fast
         - fail-fast: boa prática de validar os parâmetros recebidos antes de utilizá-los na lógica da aplicação.
 - [ ] Cap 5 - O bando deve seguir uma regra
-    - [ ] 5.1 - Criando um novo modelo
+    - [x] 5.1 - Criando um novo modelo
     - [ ] 5.2 - O tendão de Aquiles do Javascript
     - [ ] 5.3 - Blindando o nosso modelo
 - [ ] Cap 6 - A moda no cangaço

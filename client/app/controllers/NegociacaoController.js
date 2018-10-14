@@ -7,6 +7,8 @@ class NegociacaoController {
         this._inputData = $('#data');
         this._inputQuantidade = $('#quantidade');
         this._inputValor = $('#valor');
+
+        this._negociacoes = new Negociacoes();
     }
 
     adiciona(event){
@@ -18,8 +20,10 @@ class NegociacaoController {
             parseFloat(this._inputValor.value)
         );
 
-        let diaMesAno = DateConverter.paraTexto(negociacao.data);
-        console.log(diaMesAno);
+        //inclui a negociação
+        this._negociacoes.adiciona(negociacao);
 
+        //imprime a lista
+        console.log(this._negociacoes.paraArray());
     }
 }
