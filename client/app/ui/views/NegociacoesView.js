@@ -19,6 +19,12 @@ class NegociacoesView {
                 <th>VOLUME</th>
             </tr>
         </thead>
+        <tfoot>
+            <tr>
+                <td colspan="3"></td>
+                <td>${model.volumeTotal}</td>
+            </tr>
+        </tfoot>
         
         <tbody>
         ${model.paraArray().map(negociacao => 
