@@ -22,11 +22,12 @@ Projeto com os resultados dos estudos realizados com o livro Cangaceiro Javascri
     - [x] 5.2 - O tendão de Aquiles do Javascript
         - O tendão de aquiles do JS é a dependência entre scripts
     - [x] 5.3 - Blindando o nosso modelo
-- [ ] Cap 6 - A moda no cangaço
+- [x] Cap 6 - A moda no cangaço
     - [x] 6.1 - O papel da View
     - [x] 6.2 - Nossa solução de View
     - [x] 6.3 - Construindo um template dinâmico
-    - [ ] 6.4 - Totalizando com reduce
+    - [x] 6.4 - Totalizando o volume de negociações
+    - [x] 6.5 - Totalizando com reduce
 - [ ] Cap 7 - O plano
     - [ ] 7.1 - Parâmetro default
     - [ ] 7.2 - Criando a classe MensagemView
