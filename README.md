@@ -29,9 +29,9 @@ Projeto com os resultados dos estudos realizados com o livro Cangaceiro Javascri
     - [x] 6.4 - Totalizando o volume de negociações
     - [x] 6.5 - Totalizando com reduce
 - [ ] Cap 7 - O plano
-    - [ ] 7.1 - Parâmetro default
-    - [ ] 7.2 - Criando a classe MensagemView
-    - [ ] 7.3 - Herança e reutilização de código
+    - [x] 7.1 - Parâmetro default
+    - [x] 7.2 - Criando a classe MensagemView
+    - [x] 7.3 - Herança e reutilização de código
     - [ ] 7.4 - Classes abstratas?
     - [ ] 7.5 - Para saber mais: super
     - [ ] 7.6 - Adquirindo um novo hábito com const
