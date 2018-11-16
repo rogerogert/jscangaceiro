@@ -39,11 +39,45 @@ Projeto com os resultados dos estudos realizados com o livro Cangaceiro Javascri
 ### Parte 2 - Força Volante
 
 - [ ] Cap 8 - Um cangaceiro sabe delegar tarefas
+    - [ ] 8.1 - E se atualizarmos a View quando o modelo for alterado?
+    - [ ] 8.2 - Driblando o this dinâmico
+    - [ ] 8.3 - Arrow function e seu escopo léxico
 - [ ] Cap 9 - Enganaram o cangaceiro, será?
+    - [ ] 9.1 O padrão de projeto Proxy
+    - [ ] 9.2 - Aprendendo a trabalhar com Proxy
+    - [ ] 9.3 - Construindo armadilhas de leitura
+    - [ ] 9.4 - Construindo armadilhas de escrita
+    - [ ] 9.5 - Reflect API
+    - [ ] 9.6 - Um problema não esperado
+    - [ ] 9.7 - Construindo armadilhas para métodos
+    - [ ] 9.8 - Uma pitada do ES2016 (ES7)
+    - [ ] 9.9 - Aplicando a solução em NegociacaoController
 - [ ] Cap 10 - Cúmplice na emboscada
+    - [ ] 10.1 - O padrão de projeto Factory
+    - [ ] 10.2 - Nosso proxy ainda não está 100%!
+    - [ ] 10.3 - Associando modelo e View através da classe Bind
+    - [ ] 10.4 - Parâmetros REST
 - [ ] Cap 11 - Data dos infernos!
+    - [ ] 11.1 - O problema com o input date
+    - [ ] 11.2 - Ajustando nosso converter
+    - [ ] 11.3 - Lidando com exceções
+    - [ ] 11.4 - Criando nossa própria exceção: primeira tentativa
+    - [ ] 11.5 - Criando nossa própria exceção: segunda tentativa
 - [ ] Cap 12 - Pilhando o que interessa!
+    - [ ] 12.1 - Servidor e infraestrutura
+    - [ ] 12.2 - Requisições Ajax com o objeto XMLHttpRequest
+    - [ ] 12.3 - Realizando o parse da resposta
+    - [ ] 12.4 - Separando responsabilidades
 - [ ] Cap 13 - Lutando até o fim
+    - [ ] 13.1 - Callback HELL
+    - [ ] 13.2 - O padrão de projeto Promise
+    - [ ] 13.3 - Criando Promises
+    - [ ] 13.4 - Criando um serviço para isolar a complexidade do XMLHttpRequest
+    - [ ] 13.5 - Resolvendo Promises sequencialmente
+    - [ ] 13.6 - Resolvendo Promises paralelamente
+    - [ ] 13.7 - Ordenando o período
+    - [ ] 13.8 - Impedindo importações duplicadas
+    - [ ] 13.9 - As funções filter() e some()
 
 ### Parte 3 - A revelação
 
