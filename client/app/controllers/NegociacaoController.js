@@ -2,7 +2,7 @@ class NegociacaoController {
 
     constructor(){
         //o bind mantém o document como o contexto this
-        let $ = document.querySelector.bind(document);
+        const $ = document.querySelector.bind(document);
         //busca elementos
         this._inputData = $('#data');
         this._inputQuantidade = $('#quantidade');
