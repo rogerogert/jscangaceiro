@@ -39,8 +39,8 @@ Projeto com os resultados dos estudos realizados com o livro Cangaceiro Javascri
 ### Parte 2 - Força Volante
 
 - [ ] Cap 8 - Um cangaceiro sabe delegar tarefas
-    - [ ] 8.1 - E se atualizarmos a View quando o modelo for alterado?
-    - [ ] 8.2 - Driblando o this dinâmico
+    - [x] 8.1 - E se atualizarmos a View quando o modelo for alterado?
+    - [x] 8.2 - Driblando o this dinâmico
     - [ ] 8.3 - Arrow function e seu escopo léxico
 - [ ] Cap 9 - Enganaram o cangaceiro, será?
     - [ ] 9.1 O padrão de projeto Proxy
