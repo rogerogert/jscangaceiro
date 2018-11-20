@@ -43,9 +43,9 @@ Projeto com os resultados dos estudos realizados com o livro Cangaceiro Javascri
     - [x] 8.2 - Driblando o this dinâmico
     - [x] 8.3 - Arrow function e seu escopo léxico
 - [ ] Cap 9 - Enganaram o cangaceiro, será?
-    - [ ] 9.1 O padrão de projeto Proxy
-    - [ ] 9.2 - Aprendendo a trabalhar com Proxy
-    - [ ] 9.3 - Construindo armadilhas de leitura
+    - [x] 9.1 O padrão de projeto Proxy
+    - [x] 9.2 - Aprendendo a trabalhar com Proxy
+    - [x] 9.3 - Construindo armadilhas de leitura
     - [ ] 9.4 - Construindo armadilhas de escrita
     - [ ] 9.5 - Reflect API
     - [ ] 9.6 - Um problema não esperado
